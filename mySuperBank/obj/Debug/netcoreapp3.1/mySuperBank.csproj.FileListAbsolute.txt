@@ -1,0 +1,14 @@
+C:\Users\aditya\Documents\GitHub\CSharpProjects\mySuperBank\bin\Debug\netcoreapp3.1\mySuperBank.exe
+C:\Users\aditya\Documents\GitHub\CSharpProjects\mySuperBank\bin\Debug\netcoreapp3.1\mySuperBank.deps.json
+C:\Users\aditya\Documents\GitHub\CSharpProjects\mySuperBank\bin\Debug\netcoreapp3.1\mySuperBank.runtimeconfig.json
+C:\Users\aditya\Documents\GitHub\CSharpProjects\mySuperBank\bin\Debug\netcoreapp3.1\mySuperBank.runtimeconfig.dev.json
+C:\Users\aditya\Documents\GitHub\CSharpProjects\mySuperBank\bin\Debug\netcoreapp3.1\mySuperBank.dll
+C:\Users\aditya\Documents\GitHub\CSharpProjects\mySuperBank\bin\Debug\netcoreapp3.1\mySuperBank.pdb
+C:\Users\aditya\Documents\GitHub\CSharpProjects\mySuperBank\obj\Debug\netcoreapp3.1\mySuperBank.csproj.AssemblyReference.cache
+C:\Users\aditya\Documents\GitHub\CSharpProjects\mySuperBank\obj\Debug\netcoreapp3.1\mySuperBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aditya\Documents\GitHub\CSharpProjects\mySuperBank\obj\Debug\netcoreapp3.1\mySuperBank.AssemblyInfoInputs.cache
+C:\Users\aditya\Documents\GitHub\CSharpProjects\mySuperBank\obj\Debug\netcoreapp3.1\mySuperBank.AssemblyInfo.cs
+C:\Users\aditya\Documents\GitHub\CSharpProjects\mySuperBank\obj\Debug\netcoreapp3.1\mySuperBank.csproj.CoreCompileInputs.cache
+C:\Users\aditya\Documents\GitHub\CSharpProjects\mySuperBank\obj\Debug\netcoreapp3.1\mySuperBank.dll
+C:\Users\aditya\Documents\GitHub\CSharpProjects\mySuperBank\obj\Debug\netcoreapp3.1\mySuperBank.pdb
+C:\Users\aditya\Documents\GitHub\CSharpProjects\mySuperBank\obj\Debug\netcoreapp3.1\mySuperBank.genruntimeconfig.cache
